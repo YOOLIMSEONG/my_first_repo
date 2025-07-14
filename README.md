@@ -1,2 +1,3 @@
 # my_first_repo
-SANGDON KIM 
+SANGDON KIM
+YOOLIM SEONG
